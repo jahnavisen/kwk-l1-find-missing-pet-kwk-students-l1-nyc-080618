@@ -36,7 +36,7 @@ Notice that the `painting-elephants.jpg` image is located in `(lab root) > cats 
 We can move this elephant image by entering in terminal from the main directory of this project...
 
 ```bash
-cd cats
+cd cats 
 cd indoor
 cd back-alley
 mv painting-elephants.jpg ..
